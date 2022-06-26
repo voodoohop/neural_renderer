@@ -1,3 +1,5 @@
+This repo is forked from [Neural 3D Mesh Renderer](https://github.com/daniilidis-group/neural_renderer). I replaced 'AT_CHECK' by 'TORCH_CHECK' in cuda codes to support higher version PyTorch.
+
 # Neural 3D Mesh Renderer (CVPR 2018)
 
 This repo contains a PyTorch implementation of the paper [Neural 3D Mesh Renderer](http://hiroharu-kato.com/projects_en/neural_renderer.html) by Hiroharu Kato, Yoshitaka Ushiku, and Tatsuya Harada.
